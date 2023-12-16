@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.title {
+  background-color: blue;
+  color: white;
+  height: 100px;
+  text-align: center;
+  justify-content: center
+}
+.button {
+  background-color: green;
+  color: white;
+  font-size: 25px
+}
+.tasks{
+  justify-content: center;
+}
